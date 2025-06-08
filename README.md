@@ -18,7 +18,8 @@ This repository contains beginner-to-intermediate Java programming exercises com
 - Git & GitHub
 
 ## 📁 Folder Structure
-```JavaTasks/
+```
+JavaTasks/
 ├── IfElseAge.java
 ├── MultTableWhle.java
 ├── FloatAccept.java
